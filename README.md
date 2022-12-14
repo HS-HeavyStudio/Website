@@ -1,1 +1,2 @@
-# Website
+markdown: kramdown
+theme: minima
